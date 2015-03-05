@@ -1,9 +1,9 @@
-JLoopPlayer@‰´‚ª“¾‚·‚éƒ‹[ƒv
+JLoopPlayerã€€ä¿ºãŒå¾—ã™ã‚‹ãƒ«ãƒ¼ãƒ—
 
-“rØ‚ê–Ú‚Ì‚È‚¢–³ŒÀƒ‹[ƒvÄ¶‚ª‚Å‚«‚é‰¹ŠyƒvƒŒƒCƒ„[B11”N§ìA~“ñŠ´‚ ‚é  
-wavƒtƒ@ƒCƒ‹‚µ‚©ŠJ‚¯‚È‚¢Bau‚Æ‚©aiff‚Æ‚©‚à‚¢‚¯‚é‚©‚à
+é€”åˆ‡ã‚Œç›®ã®ãªã„ç„¡é™ãƒ«ãƒ¼ãƒ—å†ç”ŸãŒã§ãã‚‹éŸ³æ¥½ãƒ—ãƒ¬ã‚¤ãƒ¤ãƒ¼ã€‚11å¹´åˆ¶ä½œã€å¨äºŒæ„Ÿã‚ã‚‹  
+wavãƒ•ã‚¡ã‚¤ãƒ«ã—ã‹é–‹ã‘ãªã„ã€‚auã¨ã‹aiffã¨ã‹ã‚‚ã„ã‘ã‚‹ã‹ã‚‚
 
+ãƒªãƒªãƒ¼ã‚¹ã‚’ç”¨æ„ã—ã¾ã—ãŸã€‚jarãƒ•ã‚¡ã‚¤ãƒ«ã‚’ãƒ€ãƒ–ãƒ«ã‚¯ãƒªãƒƒã‚¯ã§ä½¿ãˆã¾ã™  
+https://github.com/mikankari/jloopplayer/releases/tag/v0.1
 
-jloopplayer0_1.jar@ccc@–{‘Ì
-
-![ƒXƒNƒŠ[ƒ“ƒVƒ‡ƒbƒg](https://raw.githubusercontent.com/mikankari/jloopplayer/master/screenshot.png)
+![ã‚¹ã‚¯ãƒªãƒ¼ãƒ³ã‚·ãƒ§ãƒƒãƒˆ](https://raw.githubusercontent.com/mikankari/jloopplayer/master/screenshot.png)
